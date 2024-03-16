@@ -4,3 +4,6 @@ HTML, Css ile  iç mimarlık web sitesinin temel yapısını oluşturuyor."boxic
 
 Kaynak: **Udemy**
  [Css - Uygulamalı Css - Flexbox - Css Grid Eğitimi](https://www.udemy.com/course/css-egitimi/ "Css'i en ince ayrıntılarına kadar öğrenip frontend alanında fark yaratın").
+
+
+[Projeyi buradan inceleyebilirsin ... ](https://mimarlikprojesi.netlify.app/). 
