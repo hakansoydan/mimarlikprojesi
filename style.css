@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+header{
+   margin: 32px;
+}
+.gallery {
+  padding: 15px;
+}
+h1 {
+  display: inline-block;
+}
+.links {
+  display: inline-block;
+  margin: 0 25px ;
+}
+.links li {
+  display: inline-block;
+}
+.links a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  margin: 0 8px;
+  font-weight: 400;
+  transition: all ease-in-out 2s;
+}
+
+a.active {
+  border-bottom: 1px solid black;
+}
+
+a:hover{
+border-bottom: 1px solid black; ;
+}
+.card {
+  display: inline-block;
+  /* width: 49%;
+   margin: 0 20px; */
+  width: 49%;
+  /* box-sizing: border-box; */
+  padding: 0 15px;
+}
+
+.card img {
+  height: 500px;
+  width: 100%;
+  object-fit: cover;
+}
+.card img:hover {
+  /* filter: blur(2px); */
+  opacity: 0.9;
+}
+.card h2 {
+  margin: 8px 0px 16px 0px;
+  font-weight: 300;
+}
+.why{
+   width: 50%;
+   margin: 100px 200px;
+}
+.why h3{
+   font-weight: 300;
+   font-style: italic;
+   font-size: 25px;
+}
+h3.message{
+   font-size: 50px;
+   font-style: italic;
+   font-weight: 200;
+   margin-top: 0px;
+   border-bottom:2px solid black;
+   padding-bottom: 8px;
+   color: red;
+}
+#contact {
+   margin-top: 40px;
+}
+#contact p{
+   margin-top: 0px;
+   font-weight: 600;
+}
+.bx{
+   font-size: 29px
+}
